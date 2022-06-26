@@ -1,10 +1,5 @@
 
-![This is an image](https://repository-images.githubusercontent.com/507447477/203289d7-f739-49cc-a9dd-625f4af286ab)
-
-
-
-
-
+![This is an image](https://github.com/CloudCarib/.github/blob/main/CCL-Logo_Large_White.png)
 
 
 ## Hi there 👋
